@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.rinfield.calc">
+    package="com.github.rinfield.scalc.ui">
 
     <application
         android:icon="@drawable/android:star_big_on"
