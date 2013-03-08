@@ -5,3 +5,4 @@ jdk:
    - openjdk6
 notifications:
   email: false
+script: "sbt ++$TRAVIS_SCALA_VERSION ¥"project CalcLogic¥" test"

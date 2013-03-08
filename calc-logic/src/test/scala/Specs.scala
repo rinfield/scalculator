@@ -1,4 +1,3 @@
-import com.github.rinfield
 import org.scalatest.matchers.ShouldMatchers
 import org.scalatest.FunSpec
 
