@@ -2,7 +2,7 @@ language: scala
 scala:
    - 2.9.2
 jdk:
-   - openjdk6
+   - oraclejdk6
 notifications:
   email: false
-script: sbt ++$TRAVIS_SCALA_VERSION "project CalcLogic" test
+script: ./logic-test.sh
